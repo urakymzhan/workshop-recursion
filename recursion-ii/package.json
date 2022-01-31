@@ -1,0 +1,15 @@
+{
+  "name": "workshop-recursion",
+  "version": "1.0.0",
+  "description": "workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem",
+    "grade": "node_modules/.bin/testem ci"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testem": "^1.6.0"
+  }
+}
